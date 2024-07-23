@@ -7,7 +7,6 @@ __pycache__/
 *.csv
 *.json
 *.lock
-*.txt
 *.bak
 *.bak1
 *.bak2
@@ -42,6 +41,9 @@ MANIFEST
 
 # Word Cloud Images
 result/
+
+#　Samples
+samples/
 
 # OS generated files
 .DS_Store
